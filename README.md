@@ -1,4 +1,4 @@
-# Major-League-Baseball- -Diamond-Queries - Fan-Friendly SQL Edition
+# Major-League-Baseball-Diamond-Queries - Fan-Friendly SQL Edition
 
 [![License: MIT](https://img.shields.io/badge/Code_License-MIT-blue.svg)](LICENSE)
 [![Data: CC BY-SA 3.0](https://img.shields.io/badge/Data_License-CC%20BY--SA%203.0-green.svg)](https://creativecommons.org/licenses/by-sa/3.0/)
