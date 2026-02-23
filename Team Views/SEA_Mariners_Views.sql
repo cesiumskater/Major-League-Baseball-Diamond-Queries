@@ -4,7 +4,6 @@
 -- Franchise established: 1977
 -- =====================================================================
 
-
 -- ============================================================
 -- View 1: mariners_season_results
 -- Purpose: Year-by-year W/L record with postseason flags and
